@@ -4,6 +4,8 @@ At the end of the week, students should have a handle on versioning and managing
 ## Monday
 - Rule Maintenance and Management
     - Create and maintain rules, rulesets, classes, and inheritance
+- Pega Insurance FW
+    - Leveraging Pega Insurance Framework for quick project development 
 ## Tuesday
 - Testing
     - Identify best practices for configuring unit tests
