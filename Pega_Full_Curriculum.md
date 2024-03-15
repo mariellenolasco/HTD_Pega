@@ -111,7 +111,8 @@
         <strong>Week 4: Project Management in Pega</strong>
     </td>
     <td> <!--Monday-->
-        Create and maintain rules, rulesets, classes, and inheritance
+        Create and maintain rules, rulesets, classes, and inheritance <br>
+        Pega Insurance FW
     </td>
     <td> <!--Tuesday-->
         Identify best practices for configuring unit tests <br>
