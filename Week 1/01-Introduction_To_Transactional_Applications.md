@@ -7,3 +7,4 @@ Like insurance applications that offer an interface for a user to submit claims 
 Every application has 3 basic parts:
 Data storage, Backend, Frontend (UI)
 
+<!--Add image here-->
